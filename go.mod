@@ -1,1 +1,1 @@
-module kingbase.com/gokb
+module kingbase-driver

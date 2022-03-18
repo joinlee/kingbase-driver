@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"kingbase.com/gokb/oid"
+	"github.com/joinlee/kingbase-driver/oid"
 )
 
 type readBuf []byte

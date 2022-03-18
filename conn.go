@@ -21,10 +21,9 @@ import (
 	"time"
 	"unicode"
 
-	"kingbase.com/gokb/oid"
-	"kingbase.com/gokb/scram"
+	"github.com/joinlee/kingbase-driver/oid"
+	"github.com/joinlee/kingbase-driver/scram"
 )
-
 
 // INFO
 const GOKB_Version_V008R006C002B0105 = iota

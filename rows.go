@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"kingbase.com/gokb/oid"
+	"github.com/joinlee/kingbase-driver/oid"
 )
 
 const headerSize = 4

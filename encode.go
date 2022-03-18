@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"kingbase.com/gokb/oid"
+	"github.com/joinlee/kingbase-driver/oid"
 )
 
 func binaryEncode(parameterStatus *parameterStatus, x interface{}) []byte {

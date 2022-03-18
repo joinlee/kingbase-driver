@@ -1,1 +1,1 @@
-module kingbase-driver
+module github.com/joinlee/kingbase-driver
